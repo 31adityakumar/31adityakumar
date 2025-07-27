@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Aditya Kumar!  
 
-🎓 **Final-Year B.Tech Student** in Electrical Engineering at **National Institute of Technology, Silchar**  
+🎓 **B.Tech** in Electrical Engineering at **National Institute of Technology, Silchar**  
 💻 **Full Stack Developer** | **Cybersecurity Enthusiast** | **Problem Solver**  
 
 Welcome to my GitHub! I’m passionate about crafting robust, scalable web applications and exploring the intersection of web development and cybersecurity. With hands-on experience in frontend and backend technologies, I strive to deliver impactful solutions to real-world challenges.  
