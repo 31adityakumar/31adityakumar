@@ -1,74 +1,128 @@
-# 👋 Hi, I'm Aditya Kumar!
+# Hey, I'm Aditya Kumar 👋
 
-🎓 **B.Tech in Electrical Engineering** from **National Institute of Technology, Silchar**  
-💼 **Software Engineer @ Accenture**  
-☕ **Backend Engineer | Java | Spring Boot | AWS | Distributed Systems**
+### Software Engineer | Backend | Java | Spring Boot | AWS | Distributed Systems
 
-Welcome to my GitHub! I'm a Software Engineer with **1+ years of experience** building scalable backend systems, cloud-native applications, and distributed microservices. I enjoy solving challenging engineering problems using **Java, Spring Boot, GraphQL, AWS, PostgreSQL, Redis, Docker, and Kubernetes**, while continuously improving my expertise in **System Design** and **Data Structures & Algorithms**.
+I'm a Software Engineer currently working at **Accenture**, with experience building scalable backend systems, APIs, microservices, and cloud-native applications.
 
----
+I enjoy solving engineering problems around **backend performance, distributed systems, databases, concurrency, and system design**.
 
-# 🚀 What I Do
-
-- ☕ Build scalable backend services using **Java, Spring Boot, Micronaut, REST APIs & GraphQL**
-- ☁️ Develop cloud-native applications on **AWS (ECS, Lambda, SNS, SQS, RDS)**
-- ⚡ Design distributed systems and asynchronous event-driven architectures
-- 🐳 Deploy containerized microservices using **Docker, Kubernetes & CI/CD**
-- 🧠 Passionate about solving complex algorithmic problems (**400+ DSA problems solved**)
+🎓 B.Tech in Electrical Engineering — **National Institute of Technology, Silchar**
 
 ---
 
-# 💼 Experience
+## 💼 Experience
 
-### 💻 Software Engineer | Accenture (Oct 2025 – Present)
+### Software Engineer — Accenture
+**Bengaluru, India | Oct 2025 – Present**
 
-- Built high-performance GraphQL APIs using Java 17 and Spring Boot.
-- Increased API throughput by **60%** by eliminating N+1 query bottlenecks using DataLoader.
-- Deployed Dockerized microservices on AWS ECS with auto-scaling.
-- Implemented OAuth2 authentication and OpenTelemetry tracing for production observability.
+- Developed **GraphQL APIs** using Java 17 and Spring Boot with sub-3-second response times.
+- Eliminated **N+1 query bottlenecks** using DataLoader, improving API throughput by **60%** under concurrent workloads.
+- Optimized database access patterns and integrated **OAuth2 authentication**.
+- Built Docker images and deployed backend services to **AWS ECS** through CI/CD pipelines.
+- Integrated **OpenTelemetry tracing** for production observability and troubleshooting.
 
-### 🏨 Software Development Engineer (Backend) | CrossBo (Jan 2025 – Sept 2025)
+### Software Development Engineer (Intern) — CrossBo
+**Dubai, UAE (Remote) | Jan 2025 – Sept 2025**
 
-- Developed multi-tenant backend services using Micronaut and PostgreSQL.
-- Built REST APIs powering React.js and React Native applications.
-- Designed asynchronous event-driven workflows using AWS SNS & SQS.
-- Implemented RBAC authorization with tenant-level data isolation.
+- Developed **multi-tenant backend services** for hotel reservations, staff management, and operational workflows.
+- Worked with **Java (Micronaut), Node.js, TypeScript, and PostgreSQL**.
+- Built secure REST APIs with token-based authentication, **RBAC**, and tenant-level data isolation.
+- Designed asynchronous event-driven workflows using **AWS SNS and SQS**.
+- Implemented a timezone-aware **SLA scheduling engine**.
+- Integrated multiple Hotel PMS platforms with a centralized **RDS-based CMS**.
+- Improved backend reliability through connection-pooling improvements, database query optimization, and PostgreSQL data migration.
 
-### 🔐 Software Engineering Intern | Accenture (May 2024 – Jul 2024)
+### Software Engineering Intern — Accenture
+**May 2024 – Jul 2024**
 
-- Built FastAPI microservices for vulnerability ingestion.
-- Integrated ServiceNow APIs to automate security workflows.
-- Applied DBSCAN clustering and NLP for vulnerability prioritization.
+- Built **FastAPI microservices** for vulnerability ingestion.
+- Integrated **ServiceNow APIs** to automate security workflows.
+- Worked on vulnerability prioritization using **DBSCAN clustering and NLP**.
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Projects
 
 ### 🚦 Distributed Rate Limiter
 
-- Redis Sliding Window implementation
-- Per-user & Per-IP throttling
-- Atomic Redis operations for concurrency
-- High-performance API traffic management
+A Redis-based sliding window rate limiter designed for high-concurrency API traffic.
+
+- Per-user and per-IP request throttling
+- Atomic Redis operations
+- Low-latency request validation
+- Designed for horizontally scalable microservices
 
 ### ⚙️ CPU-SchedX
 
-- CPU Scheduling Simulator in C++
-- Supports FCFS, Round Robin, SRTF, HRRN, Priority, MLFQ and more
-- Object-oriented architecture for maintainability and extensibility
+A C++ CPU scheduling simulator implementing:
+
+- FCFS
+- Round Robin
+- SRTF
+- HRRN
+- Priority Scheduling
+- Multi-Level Feedback Queue
+
+Also includes starvation prevention using aging and scheduling metrics such as waiting and turnaround time.
 
 ---
 
-# 🌟 Highlights
+## 🛠️ Tech Stack
 
-- 🚀 Software Engineer at **Accenture**
-- ☁️ Hands-on experience with **AWS, Docker, Kubernetes, GraphQL & Microservices**
+### Languages
+
+Java · JavaScript · TypeScript · Python · C/C++
+
+### Backend
+
+Spring Boot · Micronaut · Node.js · GraphQL · REST APIs
+
+### Frontend
+
+React.js · React Native
+
+### Cloud & DevOps
+
+AWS (ECS · Lambda · SNS · SQS · RDS) · Docker · CI/CD
+
+### Databases
+
+PostgreSQL · MongoDB · Redis
+
+### Core Concepts
+
+Data Structures & Algorithms · Object-Oriented Programming  
+Distributed Systems · Microservices · Event-Driven Architecture  
+Multi-Tenancy · System Design · Concurrency  
+Authentication · Authorization · Database Optimization · Observability
+
+---
+
+## 📊 Highlights
+
 - ⚡ Improved GraphQL API throughput by **60%**
-- 🏨 Built scalable multi-tenant backend systems serving **100+ business tenants**
-- 🔒 Implemented OAuth2 authentication, RBAC authorization & OpenTelemetry observability
-- 🧩 Solved **400+ DSA problems** across LeetCode, GeeksforGeeks & Codeforces
-- 🏅 Microsoft Certified Azure Administrator Associate (AZ-104)
-- ☁️ Google Associate Cloud Engineer Certified
+- 🧩 Solved **400+ DSA problems**
+- ☁️ Hands-on experience with **AWS and cloud-native backend systems**
+- 🔐 Experience with **OAuth2, RBAC, and tenant-level data isolation**
+- 🚀 Built **microservices and event-driven systems**
+- 📈 Experience with backend performance optimization and production observability
+
+---
+
+## 🏆 Certifications
+
+- Microsoft Certified: **Azure Administrator Associate (AZ-104)**
+- **Google Associate Cloud Engineer**
+
+---
+
+## 🎓 Education
+
+### National Institute of Technology, Silchar
+
+**Bachelor of Technology — Electrical Engineering**
+
+**Dec 2021 – May 2025**  
 
 ---
 
@@ -79,38 +133,6 @@ Welcome to my GitHub! I'm a Software Engineer with **1+ years of experience** bu
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@kumar.31aditya)
 [![Stack Overflow](https://img.shields.io/badge/StackOverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21929571)
 [![CodePen](https://img.shields.io/badge/CodePen-000000?logo=codepen&logoColor=white)](https://codepen.io/31adityakumar)
-
----
-
-# 💻 Tech Stack
-
-### Languages
-Java • C/C++ • Python • JavaScript • TypeScript
-
-### Backend
-Spring Boot • Micronaut • Node.js • FastAPI • REST APIs • GraphQL
-
-### Frontend
-React.js • React Native • Next.js • HTML • CSS • TailwindCSS
-
-### Cloud & DevOps
-AWS (ECS, Lambda, SNS, SQS, RDS) • Docker • Kubernetes • CI/CD • Jenkins
-
-### Databases
-PostgreSQL • MySQL • MongoDB • Redis
-
-### Tools
-Git • GitHub • Postman • Prisma • Firebase • Linux
-
-### Core Concepts
-Data Structures & Algorithms • Object-Oriented Programming • Distributed Systems • Microservices • Event-Driven Architecture • System Design • Concurrency • Authentication • Authorization • Database Optimization • Observability
-
----
-
-# 🏆 Certifications
-
-- Microsoft Certified Azure Administrator Associate (AZ-104)
-- Google Associate Cloud Engineer
 
 ---
 
@@ -161,7 +183,5 @@ Data Structures & Algorithms • Object-Oriented Programming • Distributed Sys
 # 📫 Let's Connect
 
 - 💼 **LinkedIn:** https://linkedin.com/in/adityakr31
-- 🌐 **Portfolio:** https://itsadityakr.dev
-- 📧 **Email:** itsadityakr.dev@gmail.com
-
-⭐ If you like my work, consider starring a repository or connecting with me!
+- 🌐 **Portfolio:** https://aditya-kumar-portfolio-website.vercel.app/
+- 📧 **Email:** kumar.31aditya@gmail.com
